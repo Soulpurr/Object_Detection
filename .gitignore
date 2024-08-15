@@ -1,0 +1,11 @@
+model_data/yolo.h5
+model_data/yolo1.h5
+model_data/pretrained-yolov3.h5
+# Ignore all .h5 files in model_data
+# model_data/*.h5
+
+# Other ignore rules
+*.pyc
+__pycache__/
+venv/
+*.log
